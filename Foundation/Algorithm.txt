@@ -1,0 +1,29 @@
+#******************************************************************************
+   
+ Programmer :: Ajit 
+ Date ::- 16-04-2021
+
+*******************************************************************************#
+ 🎯💡📝☑️✅✔️👉✍🏻✍
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ Questions 
+
+ &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+ 1. Algorithm for designing a calculator 
+ 2. Algorithm for Calculating the speed 
+ 3. Algo for Armstrong number 
+ 4. Algo to convert binary number to decimal number system
+ 5. Algorithm for fibonacci series 
+ 6. Algorithm for factorial 
+ 7. Generate an algorithm to find that fancy number
+
+ 
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+👉Here is a fully general method for solving mathematical problems:
+✍🏻Write down the question
+💡Think really hard
+🎯Write down the answer
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

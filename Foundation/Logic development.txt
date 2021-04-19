@@ -1,0 +1,58 @@
+#******************************************************************************
+   
+ Programmer :: Ajit 
+ Date ::- 16-04-2021
+
+*******************************************************************************#
+ 🎯💡📝☑️✅✔️👉✍🏻✍
+
+/******************************************
+🎯 CONTENTS
+
+👉Introduction to Algorithms, Variable, constant, expressions, selection statement, Flow charts
+👉Selection statement algorithms and flow charts
+👉Looping structures , Introduction to Arrays
+👉Looping structures algorithms and flow charts
+👉Manipulating Arrays, 1-D and 2-D
+👉Algorithm for manipulating arrays
+
+****************************************************/
+
+💡Concept of Logic development 
+-----------------------------------
+
+1.✅ Understand the problem 
+
+2.✅ Algorithm (step-wise procedure to solve problem )
+        ☑️ variable 
+        ☑️ constants 
+        ☑️ expression (variables + constants + operators)
+        ☑️ Operators  --> Assignment, Arithmetic, Relational , Logical             
+        
+3.✅ flow-chart (visible Algorithms) 
+        ☑️ oval --> start/end 
+        ☑️ parallelogam --> ip/op 
+        ☑️ rectangle --> process         
+        ☑️ diamond --> condition
+
+4.✅ pseudo code (combination of natural + programming lang)
+
+5.✅ implementation 
+____________________________________________________________________________________________________________
+
+💡 Selection statement 
+        ☑️ Sequetial --> if, else, ifelse,  nested 
+        ☑️ Looping --> for, while, Do-while, nested loop 
+
+______________________________________________________________________________________________________________
+
+💡 Introduction to Array 
+----------------------------
+
+✅ 1-D array 
+✅ 2-D array 
+✅ searching technique 
+✅ sorting technique 
+
+📝 Note :: code can found in array section of different languages 
+______________________________________________________________________________________________________________

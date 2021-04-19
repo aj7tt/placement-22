@@ -1,0 +1,50 @@
+ ******************************************************************************#
+🎯 CONTENTS
+ 
+Basics of Networking
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+💡Network 
+A computer network is a group of two or more interconnected computer systems
+
+✔️Technologies 
+✔️Protocols 
+✔️services 
+
+1.☑️Network components:
+    ✔️ switches              ✔️ clients             ✔️ Hub 
+    ✔️ routers               ✔️ protocols           ✔️ Osi
+    ✔️ servers               ✔️ access points       ✔️ LAN cable
+    ✔️ shared data           ✔️ Transmission media 
+ 
+
+
+2.☑️Network Topology: (physical & logical)
+   The layout arrangement of the different devices in a network. Common examples include:
+ ✔️p2p ( link between 2 comp)
+ ✔️Bus (single cable connecting all nodes)
+ ✔️Ring (every devices will have 2 neighbour)
+ ✔️Star (hub connecting all the comp)
+ ✔️Mesh  (every comp connected to eachother)
+ ✔️tree  (forming a hierarchy.)
+ ✔️hybrid (combines two or more topologies) 
+
+3.☑️ Network Size
+ ✔️PAN  ( keyboard , mouse connection )
+ ✔️LAN  (common printer )
+ ✔️MAN  (cables)
+ ✔️WAN
+
+4.☑️ Network identifiers 
+ ✔️Hostname (hostname)
+ ✔️Ip Address  (ipconfig)
+ ✔️DNS server  ( web address --> IP address) (nslookup www.ajit.com)
+ ✔️Port    (netstat -a)
+
+
+5.☑️ Networking protocols  (To have a common language.)
+  ✅ Tcp/IP
+    ✔️ Application = (Http) 0-127-191-255
+    ✔️ Transport =  (tcp/ip)
+    ✔️ Network  =  (Ip)
+    ✔️ data link =  wifi)
