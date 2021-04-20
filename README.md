@@ -2,9 +2,9 @@
 
  # :gift: Placement'22 :gift:
 <br>
-
-This repository consists of all the necessary contents required for placement with a fine roadmap and short notes. The roadmap has followed the path of 'cognizant: Digital Nurture program'. 
-About the material : The material has been taken and combined from various different sources.
+This repository consists my daily learning contents with a short notes. 
+The roadmap for this rpository has followed the path of 'cognizant: Digital Nurture program'.
+About the material :: The material has been taken and combined from various different sources.
  
 <br>
 # 🚀 Getting Started
@@ -12,7 +12,7 @@ About the material : The material has been taken and combined from various diffe
 
 
 
-# 🏆 SOME EXTRA TIPS:
+# 🏆 some of My preperation sources:
  
 ## : Coding Practice
 📒 [LeetCode](https://leetcode.com/)\
