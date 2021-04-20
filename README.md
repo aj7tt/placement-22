@@ -16,7 +16,7 @@ About the material : The material has been taken and combined from various diffe
 # 🏆 SOME EXTRA TIPS:
  
 ## :beginner: Coding Practice
-📒 [LeetCode](https://leetcode.com/)  (Go to Problems -> Algorithms)\
+📒 [LeetCode](https://leetcode.com/)\
 📒 [GeeksForGeeks](https://practice.geeksforgeeks.org/explore/?page=1)\
 📒 [Hackerrank](https://www.hackerrank.com/)
 
