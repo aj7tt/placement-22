@@ -15,7 +15,7 @@ About the material :: The material has been taken and combined from various diff
 ## 🏆 some of My preperation sources:
  
 📒 [LeetCode](https://leetcode.com/)\
-📒 [Hackerrank](https://www.hackerrank.com/)
+📒 [Hackerrank](https://www.hackerrank.com/)\
 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/) \
 📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 
