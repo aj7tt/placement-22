@@ -25,5 +25,5 @@ About the material :: The material has been taken and combined from various diff
  <hr>
 👨🏻‍💻 #100DaysOfchallenge<br>
 📝 Resources are added as per daily challenges ...<br>
-🤝 Sharing my everyday learning on <br>
-   [Twitter](https://www.twitter.com/aj7t) to stay committed towards my own growth.
+🤝 Sharing my everyday learning on Twitter to stay committed towards my own growth.<br>
+👉 [Twitter](https://www.twitter.com/aj7t)
