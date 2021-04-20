@@ -13,7 +13,7 @@
 <br>
 
 
-## 🏆 some of My preperation sources:
+## 🏆 Some of My preperation sources:
  
 📒 [LeetCode](https://leetcode.com/)\
 📒 [Hackerrank](https://www.hackerrank.com/)\
