@@ -20,5 +20,5 @@ About the material :: The material has been taken and combined from various diff
 📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 
  <br><br>
-👨🏻‍💻 #100DaysOfCode<br>
-📝 Will be adding resources as per daily challenges ...
+👨🏻‍💻 #100DaysOfchallenge<br>
+📝 Resources are added as per daily challenges ...
