@@ -21,5 +21,8 @@ About the material :: The material has been taken and combined from various diff
 📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 
  <br><br>
+ 
+ <hr>
 👨🏻‍💻 #100DaysOfchallenge<br>
 📝 Resources are added as per daily challenges ...
+🤝 Sharing my everyday learning on [Twitter](https://www.twitter.com/aj7t) to stay committed towards my own growth.
