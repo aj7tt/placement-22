@@ -12,14 +12,12 @@ About the material :: The material has been taken and combined from various diff
 
 
 
-# 🏆 some of My preperation sources:
+## 🏆 some of My preperation sources:
  
-## : Coding Practice
 📒 [LeetCode](https://leetcode.com/)\
 📒 [GeeksForGeeks](https://practice.geeksforgeeks.org/explore/?page=1)\
 📒 [Hackerrank](https://www.hackerrank.com/)
 
-## :General Interview Prep
 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/) \
 📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 
