@@ -18,7 +18,8 @@
 📒 [LeetCode](https://leetcode.com/)\
 📒 [Hackerrank](https://www.hackerrank.com/)\
 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/) \
-📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
+📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/) \
+🤝 [Telegram](https://t.me/joinchat/IU7aAON-6bA5MTZl/)
 
  <br><br>
  
