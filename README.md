@@ -1,5 +1,3 @@
-# Placement
-#100dayschallenge
 
 
  # :gift: Placement'22- A Complete Roadmap :gift:
