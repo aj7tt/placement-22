@@ -9,7 +9,7 @@ About the material :: The material has been taken and combined from various diff
 <br><br> 
 # 🚀 Getting Started
 <br>
-![image]{img/journey.jpeg)
+![image](img/journey.jpeg)
 
 
 
