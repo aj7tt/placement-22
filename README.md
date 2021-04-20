@@ -10,7 +10,7 @@ About the material :: The material has been taken and combined from various diff
 # 🚀 Getting Started
 <br>
 <img  alt="learning_joirney" src="img/journey.jpeg"/>
-
+<br>
 
 
 ## 🏆 some of My preperation sources:
