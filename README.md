@@ -3,7 +3,7 @@
  # :gift: Placement'22 :gift:
 <br>
 This repository consists of my daily learning challenge with a short notes.<br>
-The roadmap for this rpository has followed the path of 'cognizant: Digital Nurture program'.<br>
+The roadmap for this repository has followed the path of 'cognizant: Digital Nurture program'.<br>
 About the material :: The material has been taken and combined from various different sources.
  
 <br><br> 
