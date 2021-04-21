@@ -48,3 +48,15 @@ A computer network is a group of two or more interconnected computer systems
     ✔️ Transport =  (tcp/ip)
     ✔️ Network  =  (Ip)
     ✔️ data link =  wifi)
+
+
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+complete notes :: https://docs.google.com/document/d/1cvpiJ3ATk08HsnFeZTWkNBH94NljBH9C5OadaAbJEZk/edit?usp=sharing
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
