@@ -9,7 +9,7 @@
 <br><br> 
 # 🚀 Getting Started
 <br>
-<img  alt="learning_joirney" src="Foundation/journey.jpeg"/>
+<img  alt="learning_joirney" src="Foundation/img/journey.jpeg"/>
 <br>
 
 
