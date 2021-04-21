@@ -1,3 +1,5 @@
-## Foundation 
+## Foundation 👨🏻‍💻
 
-[image](img/Foundation/foundation.jpeg)
+
+<img  alt="Foundation" src="img/Foundation/foundation.jpeg"/>
+ 
