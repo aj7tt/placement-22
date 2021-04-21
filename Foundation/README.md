@@ -3,3 +3,4 @@
 
 <img  alt="Foundation" src="img/Foundation/foundation.jpeg"/>
  
+<img  alt="learning_joirney" src="img/journey.jpeg"/>
