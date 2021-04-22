@@ -1,6 +1,6 @@
 ### Started a #100daysofchallenge for [#placement'22](https://t.me/joinchat/IU7aAON-6bA5MTZl/)
 
- # :gift: Placement'22 :gift:
+ # :gift: #100daysofchallenge :gift:
 <br>
 📒 This repository consists of my daily learning challenge with a short notes.<br>
 📘 The roadmap for this repository has followed the path of 'cognizant: Digital Nurture program'.<br>
