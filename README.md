@@ -27,3 +27,4 @@
 👨🏻‍💻 #100DaysOfchallenge<br>
 📝 Resources are added in repository as per daily challenges ...<br>
 🤝 Sharing my everyday learning on Twitter to stay committed towards my own growth.<br>
+🤝 Sharing my everyday learning on  ![Twitter Follow](https://img.shields.io/twitter/follow/_aj7t?style=social) [Twitter](https://www.twitter.com/_aj7t) Twitter to stay committed towards my own growth.<br>
