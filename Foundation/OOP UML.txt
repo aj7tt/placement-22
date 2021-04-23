@@ -1,0 +1,90 @@
+***************************************************************************** 
+ Date ::- 21-04-2021
+ contributed by ajit
+
+******************************************************************************* 
+ 🎯💡📝☑️✅✔️👉✍🏻✍
+
+🎯UML Architecture
+🎯Use Case Diagram
+🎯Class Diagram
+🎯Sequence Diagram
+🎯Activity Diagram
+🎯State Chart Diagram
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+🎯Oops
+
+☑️objects 
+   * data 
+   * function 
+☑️ Class   
+
+☑️ abstraction :: only required data of an obj
+    hierachy :: ordering of abstraction
+☑️encapsulation:: variables ++ method (relation between 2 class)
+☑️inheritence : derived class 
+☑️Generalization is the process of extracting shared characteristics 
+      from two or more classes, and combining them into a generalized superclass.
+☑️Modularity is the process of decomposing a problem (program) into a set of modules 
+        so as to reduce the overall complexity of the problem
+
+☑️polymorphism ::
+
+Aggregation :
+interface ;:: common boundary
+package : behaves likes folder 
+
+
+
+
+
+**************************************
+🎯UML :: A modelling language 
+**************************************
+
+💡 UML = software blue print
+__________________________________
+
+☑️ Use case Diagram : user view 
+ ✍🏻Actors : users 
+ ✍🏻usecase : finction/service to actors 
+ ✍🏻association : retanshionship ____________>
+  📝include :   ------> usecase is exceuted 
+  📝exclude  : <-------- only when exceited
+  📝system boundary 
+
+
+
+☑️ class/obj doagram : structural view of software 
+   ✍🏻 it have 3 compartment 
+    👉 class 
+    👉attributes 
+    👉 method 
+     - private 
+     + public
+
+
+  ✅Relationships type in UML 
+    👉 Association : c__________c2
+    👉 depndency c1-----> c2
+    👉aggregation : member _______🔹liberary 
+    👉 composition : book🔹__________chapter 
+    👉generation : shape <__________ circle
+    👉realization :🔵bank _________ SBi 
+
+
+
+☑️ Interaction diagram : behavioural view of software 
+   ✔️sequence diagram ( how obj interact with time )
+   ✔️ collabration diagram 
+   ✔️ activiity diagram 
+   ✔️ state chart digram 
+
+☑️ implementation  Diagram 
+☑️ Use case Diagram 
+
+
+ 
+https://www.guru99.com/uml-cheatsheet-reference-guide.html

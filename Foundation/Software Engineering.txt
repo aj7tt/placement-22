@@ -1,0 +1,207 @@
+#****************************************************************************** 
+ Date ::- 21-04-2021
+ contributed by ajit
+
+*******************************************************************************#
+ 🎯💡📝☑️✅✔️👉✍🏻✍
+
+
+******************************
+🎯 software Development🎯 
+*******************************
+☑️process
+☑️SDLC
+☑️Models 
+
+******************************
+🎯 software Testing 🎯 
+*******************************
+
+☑️  Testing 
+☑️ Static testing   :: tested without code execution  (prevention)
+☑️ Dynamic Testing  ::  tested with code execution (find bug n fix ) (white + black box testing)
+
+
+
+
+
+                     Testing
+                        |
+            |---------------------------|  
+            |                           |
+         Dynamic Testing             Static testing
+                |                           |
+      |------------------|        |------------------------|    
+      |                  |                   |           
+Functional       non-functional             Review  
+
+
+
+
+✅ Functional testing 
+  ✔️ unit testing  :: individual modules are tested 
+  ✔️ intergration  :: grouped modules are tested 
+  ✔️ System testing:: whole system is tested 
+
+
+✅ Non functional
+  ✔️ 
+ 
+
+
+💡 Testing life cycle 
+ ✔️Test plan 
+ ✔️case exceution 
+ ✔️ report to dev
+ ✔️ verify 
+ ✔️ close  
+
+
+__________________________________
+💡 Dynamic technique Testing
+___________________________________
+
+
+
+💡 Test Level  
+ ✔️ 
+ ✔️ 
+ ✔️  
+
+💡 Test Types 
+ ✔️ 
+ ✔️ 
+ ✔️  
+
+
+
+__________________________________
+💡 Static technique Testing
+___________________________________
+
+☑️ review Types 
+ ✔️ informal Review : review n give informal comments 
+ ✔️ walkthrogh : review n present documentation 
+ ✔️ Technical : evalute t. concepts
+ ✔️ inspection : improve product quality by finding defects 
+
+☑️ roles & responsibilities 
+ ✔️ Moderator :: leads to review process 
+ ✔️ Author :: documentation 
+ ✔️ Scribe :: recorder records defect found in it 
+ ✔️ Reviewer :: check defects and improvememnts
+ ✔️ Manager::  
+
+ 
+💡 Defects 
+ ☑️  Error    : deviation from actual & expected output
+ ☑️  faults   : incorrect steps/process 
+ ☑️  Bug      : Fault in program 
+ ☑️  Failure  : when sysytem can't perform  
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX%%%/\%%%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+****************************
+🎯 software Maintenance
+**************************
+
+👉 Software Maintenance is the process of modifying a software product after it has been delivered to the customer.
+
+👉Architectural transformation  :: The system is modified from a centralized to a distributed platform Software re-engineering  
+
+👉Software re-engineering
+Changes are made in response to changed requirements but the fundamental software structure is stable
+
+👉Software maintenance 
+Changes are made in response to changed requirements but the fundamental software structure is stable
+
+👉Reverse Engineering is processes of extracting knowledge or design information from anything man-made and reproducing it based on extracted information.
+ 
+
+💡Types of maintenance
+ ✅ corrective  :: coding, testing , docuemntation error  (bug fixing)
+ ✅ Adaptive    :: enviroment, software error (portng & migration)  
+ ✅ Perfective  ::   (enghancememnt & scalability)
+ ✅ preventive  :: prevent future prblm (software eng)
+
+
+💡 Maintenance  process
+  ✔️ understand the problem 
+  ✔️ generate Maintenance proposal 
+  ✔️ Ripple effect 
+ 
+💡 Maintenance  Model
+  ✅  Quick fix model  
+  ✅  Iterattive enchancement 
+  ✅  Reuse ieuented 
+  ✅  Boehm's model  
+
+✅ Reverse engineering is about uncovering the secrets behind the product so that you may change it according to your needs. 
+✅ Reengineering is the process of amending the product to some new form
+✅ When a system is restructured and reorganized to facilitate future changes, it is called as _forward eng
+
+
+
+
+
+******************************************************
+🎯 Configuration Management And Version Control 🎯 
+*******************************************************
+
+✅Tasks in SCM process
+  ✔️Configuration Identification  :: login_v.1.2.php
+  ✔️Baselines  :: ready for releaase
+  ✔️Change Control  :: manage changes & making config
+  ✔️Configuration Status Accounting :: track each releases
+  ✔️Configuration Audits and Reviews :: software satisfy customers 
+
+
+✅Software Configuration Management Tools
+--> Any Change management software should have the following 3 Key features:
+
+✔️Concurrency Management:
+When two or more tasks are happening at the same time, it is known as concurrent operation. Concurrency in context to SCM means that the 
+same file being edited by multiple persons at the same time.
+If concurrency is not managed correctly with SCM tools, then it may create many pressing issues.
+
+✔️Version Control:
+SCM uses archiving method or saves every change made to file. With the help of archiving or save feature, 
+it is possible to roll back to the previous version in case of issues.
+
+✔️Synchronization:
+Users can checkout more than one files or an entire copy of the repository. The user then works on 
+the needed file and checks in the changes back to the repository.They can synchronize their local 
+copy to stay updated with the changes made by other team members.
+
+
+https://www.slideshare.net/KanchanPatil34/unit-6-software-configuration-management
+
+
+
+
+****************************
+🎯 Agile methadology 
+**************************
+
+✅Scrum :: braeks into managable project
+✅ DSDM :: frequent delivery project ; Collaborative and co-operative among the stake holders
+__________ is an iterative and incremental approach that embraces principles of agile development, 
+     including continuous user/customer involvement
+
+✅ Crystal :: well defined (not for business )
+✅ FDD :: features based 
+✅ lean SD :: seeks to change in company
+✅ Extreme (XP) :: code n feedback 
+
+
+✅Roles and responsibilities
+  ✔️ product owner : clients
+  ✔️ Scrum master : Coordinator responsible for controlling , handling discussions, communications and removing any barrier or problems during the scrum process
+  ✔️  Team members : Programmer, a designer, a tester or an architect
+
+✅The Five Scrum Events
+Sprint Planning.
+Daily Scrum.
+Sprint Review.
+Sprint Retrospective.
+The Sprint.
