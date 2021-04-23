@@ -26,5 +26,5 @@
  <hr>
 👨🏻‍💻 #100DaysOfchallenge<br>
 📝 Resources are added in repository as per daily challenges ...<br>
-🤝 Sharing my everyday learning on Twitter to stay committed towards my own growth.<br>
- [Twitter](https://twitter.com/_aj7t/)
+🤝 Sharing my everyday learning on <a href="https://twitter.com/_aj7t/" target="_blank"> Twitter </a> to stay committed towards my own growth.<br>
+
