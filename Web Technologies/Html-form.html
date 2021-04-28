@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML FORM</title>
+</head>
+<style>
+ 
+</style>
+<body>
+    <form action="welcome.html" target="_blank" method="post">
+        <fieldset>
+          <legend>Personalia:</legend>
+          
+          <label for="fname">First name:</label><br>
+          <input type="text" id="fname" name="fname" value="Ajit" autofocus required><br>
+          
+          <label for="lname">Last name:</label><br>
+          <input type="text" id="lname" name="lname" value="kumar" required><br> 
+          
+          <label for="whatsapp">WhatsApp:</label><br>
+          <input type="tel" id="whatsapp"  maxlength="10" required><br>
+          
+          <label for="email">Email:</label><br>
+          <input type="tel" id="email"  maxlength="20" required><br>
+          
+          <label for="address">Address:</label><br>
+          <textarea id="address" name="add" rows="3" cols="20" required>  </textarea>
+          <br><br>
+          <label for="birthday"> Birthday: </label><br>
+          <input type="date" id="birthday" value="bday" max="1992-01-01" min="2020-01-01">
+          <input type="submit"> <br><br>
+
+          <label for="resume">Resume:</label><br>
+          <input type="file" id=""> <br><br>
+
+          <label for="file">Link:</label><br>
+          <input type="url" id=""> 
+          <input type='submit'><br><br>
+
+          <label for="input1">Input1</label>
+          <input type="number" id="input1"><br><br>
+          <label for="input1">Input2</label>
+          <input type="number" id="input2">  <br><br>        
+          
+          <label for="operation">Select Operation</label>
+          <select name="operations" id="operations">
+              <option value="add">Addition</option>
+              <option value="sub">Subtraction</option>
+              <option value="mul">Multiplication</option>
+              <option value="div">Division</option>
+          </select>  <br><br>
+
+          <input type="button" value="Send"> 
+          <input type="reset">
+        </fieldset>
+      </form>
+</body>
+</html>
