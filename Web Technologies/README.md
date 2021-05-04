@@ -10,5 +10,5 @@
 ### js Events
 ![image](https://user-images.githubusercontent.com/67835881/117009373-4b071b80-ad09-11eb-9930-716a8271be40.png)
 
-### Js Onjects
+### Js Objects
 ![image](https://user-images.githubusercontent.com/67835881/117017963-b228ce00-ad11-11eb-88f9-f2f55459b86f.png)
