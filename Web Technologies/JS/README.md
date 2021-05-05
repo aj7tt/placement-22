@@ -2,7 +2,7 @@
 # The Real functional language
 <br>
 
-[js](https://github.com/Aj7t/Programming)
+[js - Find the Findamental of Programming Here](https://github.com/Aj7t/Programming)
 
 
 ### js Intro 
