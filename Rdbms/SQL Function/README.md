@@ -1,6 +1,6 @@
 # Functions 
 
-![image](https://user-images.githubusercontent.com/67835881/118381898-6299aa80-b60d-11eb-8949-b35d0cd9bc45.png)
+ ![Uploading image.png…]()
 
 
                                                              Functions() 
