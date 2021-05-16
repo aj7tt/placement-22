@@ -34,6 +34,9 @@
 
 ### Character Function() 🅰️
  ![image](https://user-images.githubusercontent.com/67835881/118382242-fae55e80-b610-11eb-99ba-5504231dce76.png)
+  
+ ``` ![image](https://user-images.githubusercontent.com/67835881/118384456-b44d2f80-b623-11eb-8c5c-fe9f956b5043.png) ```
+
  
 ### Char Manupulation Function() 🔤
 ![image](https://user-images.githubusercontent.com/67835881/118382263-20726800-b611-11eb-9bb5-4a6d93c34361.png)
