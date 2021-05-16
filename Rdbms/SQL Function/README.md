@@ -45,6 +45,9 @@
 ![image](https://user-images.githubusercontent.com/67835881/118382275-4f88d980-b611-11eb-86bd-5c5994f3055a.png)
 
 ## Date Function() 🗓️
-![image](https://user-images.githubusercontent.com/67835881/118382298-98409280-b611-11eb-93b5-2248096d3449.png)
+<em
+  ![image](https://user-images.githubusercontent.com/67835881/118382298-98409280-b611-11eb-93b5-2248096d3449.png)
+
+ ![image](https://user-images.githubusercontent.com/67835881/118384544-68e75100-b624-11eb-8f5d-07921789715c.png) >
 
 ______________________________________________________________________________________
