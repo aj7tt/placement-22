@@ -6,22 +6,22 @@
                                                                   |
                           |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
                    Single Rows Function()                                                                     Multi Rows Function()
-                          |                     
-                |￣￣￣￣￣￣￣|￣￣￣￣￣￣|￣￣￣￣￣￣|￣￣￣￣￣￣￣|
-             char            Num        Date        General     Conversion 
-               |              |          |            |             |
-       |￣￣￣￣              🔽        🔽           🔽           🔽 
-    Case Conversion          MOD         |           NVL          Implicit 
-       |                      |        round          |             |
-       |----Lower/upper      Round       |          Decode        Explicit
-       |                      |        Trunc          |
-       |----Initcap           Trunc      |         Nesting
-       |                              Months_Between               
-    CharManipulation                     |   
-       |                              ADD_MONTHS
-       |----concat                       |
-       |                              Next_DAY  
-       |----Substring                    |
+                          |                                                                                             |
+                |￣￣￣￣￣￣￣|￣￣￣￣￣￣|￣￣￣￣￣￣|￣￣￣￣￣￣￣|                                          |￣￣￣￣￣￣￣￣￣|
+             char            Num        Date        General     Conversion                                   Scalar          Aggregate
+               |              |          |            |             |                                          |                  |
+        |￣￣ ◀️             🔽        🔽           🔽           🔽                                         🔽                🔽 
+    Case Conversion          MOD         |           NVL          Implicit                                   LCASE()            SUM()
+       |                      |        round          |             |                                          |                  | 
+       |----Lower/upper      Round       |          Decode        Explicit                                   UCASE()            COUNT()   
+       |                      |        Trunc          |                                                        |                  |
+       |----Initcap           Trunc      |         Nesting                                                   LEN()               AVG()     
+       |                              Months_Between                                                           |                  |
+    CharManipulation                     |                                                                    MID()              MIN()
+       |                              ADD_MONTHS                                                               |                  |
+       |----concat                       |                                                                   ROUND()            LAST()
+       |                              Next_DAY                                                                 |
+       |----Substring                    |                                                                   FORMAT()
        |                              LAST_DAT
        |----Length()
        |
@@ -45,9 +45,9 @@
 ![image](https://user-images.githubusercontent.com/67835881/118382275-4f88d980-b611-11eb-86bd-5c5994f3055a.png)
 
 ## Date Function() 🗓️
-<em
+
   ![image](https://user-images.githubusercontent.com/67835881/118382298-98409280-b611-11eb-93b5-2248096d3449.png)
 
- ![image](https://user-images.githubusercontent.com/67835881/118384544-68e75100-b624-11eb-8f5d-07921789715c.png) >
+ ![image](https://user-images.githubusercontent.com/67835881/118384544-68e75100-b624-11eb-8f5d-07921789715c.png) 
 
 ______________________________________________________________________________________
