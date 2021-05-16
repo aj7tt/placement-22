@@ -13,10 +13,10 @@
        |￣￣￣￣              🔽        🔽           🔽           🔽 
     Case Conversion          MOD         |           NVL          Implicit 
        |                      |        round          |             |
-       |----Lower            Round       |          Decode        Explicit
+       |----Lower/upper      Round       |          Decode        Explicit
        |                      |        Trunc          |
-       |----Upper           Trunc        |         Nesting
-       |                             Months_Between               |
+       |----Initcap           Trunc      |         Nesting
+       |                              Months_Between               
     CharManipulation                     |   
        |                              ADD_MONTHS
        |----concat                       |
