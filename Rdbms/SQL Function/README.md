@@ -1,4 +1,4 @@
-# Functions 
+# Functions 📊
 
 ![image](https://user-images.githubusercontent.com/67835881/118385335-8f5cba80-b62b-11eb-9d2c-b0c48ff1985b.png)
 
