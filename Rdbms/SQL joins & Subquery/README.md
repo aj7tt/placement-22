@@ -14,4 +14,4 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
 
 ## Types of join overview 
 
-[](https://content.codecademy.com/courses/learn-sql/multiple-tables/inner-join.gif)
+![](https://content.codecademy.com/courses/learn-sql/multiple-tables/inner-join.gif)
