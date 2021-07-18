@@ -1,0 +1,43 @@
+<!--#_____________________________________________________________________________
+ 
+ Program :: javascript programming  
+ Programmer :: Ajit 
+ Date ::- 12-04-2021
+_____________________________________________________________________________________________#-->
+
+<!--  ***************Output************************ 
+Writing into an HTML element, using innerHTML.
+Writing into the HTML output using document.write().
+Writing into an alert box, using window.alert().
+Writing into the browser console, using console.log().
+-->
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3>Explore different types of output in js</h3>
+<p>Writing into an HTML element, using innerHTML.</p>
+
+<p id="demo"></p>
+
+<script>
+    // using innerHTML
+document.getElementById("demo").innerHTML = "hello ajit here";
+
+    // Using document.write()
+document.write("this is using document.write() this should only be used for testing")    
+
+   //Using window.alert()
+window.alert("Be alert")
+
+   //Using console.log()
+console.log("check the output through console")   
+
+  //window.print()
+<button onclick="window.print()">Print this page</button>  
+
+</script>
+
+</body>
+</html>
