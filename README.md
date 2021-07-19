@@ -1,11 +1,12 @@
    ##### Started a #100daysofchallenge for #placement'22
 
  # #100daysofchallenge  🎯
-<br>
+<br>]
+```
 📒 This repository consists of my daily learning challenge with a short notes.<br>
 📘 The roadmap for this repository has followed the path of 'cognizant: Digital Nurture program'.<br>
 📚 About the material :: The material has been taken and combined from various different sources.
- 
+ ```
 <br><br> 
 # 🚀 Getting Started
 <br>
