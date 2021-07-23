@@ -14,7 +14,7 @@
 📒 [LeetCode](https://leetcode.com/)\
 📒 [Hackerrank](https://www.hackerrank.com/)\
 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/) \
-📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/) \
+📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/) 
  
  <br><br>
  
