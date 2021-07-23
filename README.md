@@ -21,8 +21,7 @@
 📒 [Hackerrank](https://www.hackerrank.com/)\
 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/) \
 📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/) \
-🤝 [Telegram channel](https://t.me/joinchat/IU7aAON-6bA5MTZl/)
-
+ 
  <br><br>
  
  <hr>
