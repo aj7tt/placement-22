@@ -3,7 +3,9 @@
  # #100daysofchallenge  🎯
  
  
- - [X] [DSA](https://github.com/Aj7t/100daysofDSA)    [C++](https://github.com/Aj7t/100daysofDSA)    [Oops](https://github.com/Aj7t/100daysofDSA)
+ - [X] [DSA](https://github.com/Aj7t/100daysofDSA)   
+ - [X] [C++](https://github.com/Aj7t/100daysofDSA)    
+ - [X] [Oops](https://github.com/Aj7t/100daysofDSA)
  
  
 ## 🚀 Getting Started
