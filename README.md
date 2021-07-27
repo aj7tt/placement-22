@@ -6,6 +6,7 @@
  - [X] [DSA](https://github.com/Aj7t/100daysofDSA)   
  - [X] [C++](https://github.com/Aj7t/100daysofDSA)    
  - [X] [Oops](https://github.com/Aj7t/100daysofDSA)
+ - [X] [Aptitude]()
  
  
 ## 🚀 Getting Started
@@ -21,7 +22,7 @@
 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/) \
 📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/) 
  
- <br><br>
+ <br>
  
  <hr>
 👨🏻‍💻 #100DaysOfchallenge<br>
