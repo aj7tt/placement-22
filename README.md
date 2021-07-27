@@ -24,9 +24,7 @@
  
  <br>
  
- <hr>
 👨🏻‍💻 #100DaysOfchallenge<br>
-📝 Resources are added in <a href="https://github.com/Aj7t/100daysofchallenge" target="_blank">Repository</a> as per daily challenges ...<br>
 🤝 Sharing my everyday learning on <a href="https://twitter.com/_aj7t/" target="_blank"> Twitter </a> to stay committed towards my own growth.<br>
 
  
