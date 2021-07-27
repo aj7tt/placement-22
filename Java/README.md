@@ -6,5 +6,4 @@ class Main{
         System.out.println("Have a wonderful day");
     }
 }
-
 ```
