@@ -16,7 +16,7 @@
        |                      |        round          |             |                                          |                  | 
        |----Lower/upper      Round       |          Decode        Explicit                                   UCASE()            COUNT()   
        |                      |        Trunc          |                                                        |                  |
-       |----Initcap           Trunc      |         Nesting                                                   LEN()               AVG()     
+       |----Initcap         Trunc        |         Nesting                                                   LEN()               AVG()     
        |                              Months_Between                                                           |                  |
     CharManipulation                     |                                                                    MID()              MIN()
        |                              ADD_MONTHS                                                               |                  |
@@ -28,7 +28,9 @@
        |
        |----INSTR
        |
-       |----LPAD         
+       |----LPAD                                                                                                              @_aj7t
+
+
                    
 # single Rows Finction( )
 ``` Single Row functions - Single row functions are the one who work on single row and return one output per row ```
