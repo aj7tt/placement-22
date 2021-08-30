@@ -26,10 +26,5 @@
  
 👨🏻‍💻 #100DaysOfchallenge<br>
 🤝 Sharing my everyday learning on <a href="https://twitter.com/_aj7t/" target="_blank"> Twitter </a> to stay committed towards my own growth.<br>
-
  
- <hr>
-
- 
-- Placement Materials [MEGA LinK](https://mega.nz/folder/UkQnXY7a#xGSbjRiSgyp54_JHgMF75w/folder/NopUVAjQ)
 
