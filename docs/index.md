@@ -160,8 +160,12 @@ void ceaser(string s, int key)
 
 ```
 
+**Q #5) Program to Encrypt a String?**Find total ways to reach n’th stair with at-most `m` steps?**
+
+```
 
 
+```
 
 
 
