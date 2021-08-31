@@ -5,8 +5,8 @@
 ## Ace the #placement'22 🎯 
 
  
-- [X] Common Coding Interview Questions  
-- [X] Common mySQL Interview Questions  
+- [X] Common **Coding** Interview Questions  
+- [X] Common **mySQL** Interview Questions  
 
 
 
