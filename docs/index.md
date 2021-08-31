@@ -1,3 +1,7 @@
+<head> 
+<link rel="shortcut icon" type="image/x-icon" href="https://miro.medium.com/max/1280/1*75jvBleoQfAZJc3sgTSPQA.jpeg">
+ </head>
+
 ## Ace the #placement'22 🎯
  
 
@@ -6,7 +10,7 @@
 - [X] Common mySQL Interview Questions  
 
 
-<hr><hr>
+<hr>
 <link rel="shortcut icon" type="image/x-icon" href="https://miro.medium.com/max/1280/1*75jvBleoQfAZJc3sgTSPQA.jpeg">
   
 
