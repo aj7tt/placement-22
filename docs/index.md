@@ -11,17 +11,18 @@
 
 ## Common Coding Interview Questions 
 
-Q #1) How can you reverse a string? 
+**Q #1) How can you reverse a string?**
 
-`
-//Functions to reverse an strings 
-void reverse(string str)
+~ void reverseStr(string& str)
 {
-   for (int i=str.length()-1; i>=0; i--)
-      cout << str[i];
-} 
+    int n = str.length();
+ 
+    // Swap character starting from two corners
+    for (int i = 0; i < n / 2; i++)
+        swap(str[i], str[n - i - 1]);
+}
+~
 
-`
 
 
 
