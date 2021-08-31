@@ -1,11 +1,12 @@
-<head> 
+ 
 <link rel="shortcut icon" type="image/x-icon" href="https://miro.medium.com/max/1280/1*75jvBleoQfAZJc3sgTSPQA.jpeg">
- </head>
+ 
 
 ## Ace the #placement'22 🎯
  
-
-- [DSA](https://github.com/Aj7t/100daysofDSA)  ||  [C++](https://github.com/Aj7t/100daysofDSA)  || [Oops]()  || [mySQL]()  ||  [Code]()  
+First Header  | Second Header
+------------- | -------------
+ [DSA](https://github.com/Aj7t/100daysofDSA)  ||  [C++](https://github.com/Aj7t/100daysofDSA)  || [Oops]()  || [mySQL]()  ||  [Code]()  
 - [X] Common Coding Interview Questions  
 - [X] Common mySQL Interview Questions  
 
