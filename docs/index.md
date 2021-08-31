@@ -1,9 +1,7 @@
 ## Ace the #placement'22 🎯
  
 
-- [X] [DSA](https://github.com/Aj7t/100daysofDSA)   
-- [X] [C++](https://github.com/Aj7t/100daysofDSA)    
-- [X] Oops
+ [DSA](https://github.com/Aj7t/100daysofDSA)  ||  [C++](https://github.com/Aj7t/100daysofDSA)  || [Oops]()
 - [X] Common Coding Interview Questions  
 
 
