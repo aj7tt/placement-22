@@ -11,7 +11,7 @@
 
 ## Common Coding Interview Questions 
 
-**Q #1) How can you reverse a string?**
+**Q 1) How can you reverse a string?**
 ```
 
 // Function to reverse a string
