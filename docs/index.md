@@ -82,7 +82,8 @@ int countChar(string str){
             count_special++;
         }
     }
-    cout <<endl<<"Upper case letters: " << count_upper << endl << "Lower case letters : "<<count_lower <<endl <<"Number : "<< count_numeric << endl<<  "Special characters : "         <<count_special;
+    cout <<endl<<"Upper case letters: " << count_upper << endl << "Lower case letters : "<<count_lower <<endl
+    <<"Number : "<< count_numeric << endl<<  "Special characters : "         <<count_special;
 }
 
 ```
