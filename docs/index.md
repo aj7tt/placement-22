@@ -12,8 +12,8 @@
 ## Common Coding Interview Questions 
 
 **Q #1) How can you reverse a string?**
-
-~ void reverseStr(string& str)
+`
+void reverseStr(string& str)
 {
     int n = str.length();
  
@@ -21,7 +21,7 @@
     for (int i = 0; i < n / 2; i++)
         swap(str[i], str[n - i - 1]);
 }
-~
+`
 
 
 
