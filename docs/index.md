@@ -8,34 +8,11 @@
 - [X] Common [**Coding**](## Common Coding Interview Questions ) Interview Questions  
 - [X] Common **mySQL** Interview Questions  
 
-
-**Q #1) How can you reverse a string?**
- 
-```
-
-// Function to reverse a string
-void reverse(string str)
-{
-   for (int i=str.length()-1; i>=0; i--)
-      cout << str[i];
-}
-**Q #1) How can you reverse a string?**
- 
-```
-
-// Function to reverse a string
-void reverse(string str)
-{
-   for (int i=str.length()-1; i>=0; i--)
-      cout << str[i];
-}
-
-
 <hr>
 <link rel="shortcut icon" type="image/x-icon" href="https://miro.medium.com/max/1280/1*75jvBleoQfAZJc3sgTSPQA.jpeg">
   
 
-## Common Coding Interview Questions 
+## Common Coding Interview Questions 💻💻
  
 
 **Q #1) How can you reverse a string?**
