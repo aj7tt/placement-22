@@ -6,8 +6,8 @@
 
  
  
- | [DSA](https://github.com/Aj7t/100daysofDSA)  | [C++](https://github.com/Aj7t/100daysofDSA)   | [Javascript](https://github.com/Aj7t/A-Tour-of-JavaScript)  |   |   |
-|---|---|---|---|---|
+ | [DSA](https://github.com/Aj7t/100daysofDSA)  | [C++](https://github.com/Aj7t/100daysofDSA)   | [Javascript](https://github.com/Aj7t/A-Tour-of-JavaScript)  |  
+ 
  
 - [X] Common Coding Interview Questions  
 - [X] Common mySQL Interview Questions  
