@@ -180,6 +180,23 @@ int totalWays(int n, int m)
 
 
 
+## Common mySQL Interview Questions 💻💻
+
+
+
+**Q #1) Display the 2nd highest salary of employee ?**
+
+```
+SELECT max(sal) FROM emp
+where sal < 
+     (SELECT max(sal) FROM emp)
+
+SELECT max(sal) FROM emp
+where sal not in 
+     (SELECT max(sal) FROM emp)
+
+
+```
 
 
 
