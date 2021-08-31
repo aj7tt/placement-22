@@ -5,7 +5,7 @@
 ## Ace the #placement'22 🎯
  
 
- [DSA](https://github.com/Aj7t/100daysofDSA)  ||  [C++](https://github.com/Aj7t/100daysofDSA)  || [Oops]()  || [mySQL]()  ||  [Code]()  
+- [DSA](https://github.com/Aj7t/100daysofDSA)  ||  [C++](https://github.com/Aj7t/100daysofDSA)  || [Oops]()  || [mySQL]()  ||  [Code]()  
 - [X] Common Coding Interview Questions  
 - [X] Common mySQL Interview Questions  
 
