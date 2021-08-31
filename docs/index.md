@@ -8,11 +8,13 @@
 
 
 <hr>
+ **bold text**
 
 ## Common Coding Interview Questions 
+ **bold text**
 
 **Q 1) How can you reverse a string?**
-**formatting**
+ 
 ```
 
 // Function to reverse a string
@@ -37,7 +39,7 @@ void reverseStr(string& str)
 
 
 
-
+ **bold text**
 
 
 
