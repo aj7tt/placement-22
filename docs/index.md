@@ -4,9 +4,10 @@
 
 ## Ace the #placement'22 🎯 
 
-| [DSA](https://github.com/Aj7t/100daysofDSA)  | [C++](https://github.com/Aj7t/100daysofDSA) | [Java](https://github.com/Aj7t/placement-22/tree/main/Java) | [Javascript](https://github.com/Aj7t/A-Tour-of-JavaScript)|
- | :---: | :---: | :---: | :---: | 
  
+ 
+ | [DSA](https://github.com/Aj7t/100daysofDSA)  | [C++](https://github.com/Aj7t/100daysofDSA)   | [Javascript](https://github.com/Aj7t/A-Tour-of-JavaScript)  |   |   |
+|---|---|---|---|---|
  
 - [X] Common Coding Interview Questions  
 - [X] Common mySQL Interview Questions  
