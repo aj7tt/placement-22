@@ -5,10 +5,30 @@
 ## Ace the #placement'22 🎯 
 
  
-- [X] Common **Coding** Interview Questions  
+- [X] Common [**Coding**](## Common Coding Interview Questions ) Interview Questions  
 - [X] Common **mySQL** Interview Questions  
 
 
+**Q #1) How can you reverse a string?**
+ 
+```
+
+// Function to reverse a string
+void reverse(string str)
+{
+   for (int i=str.length()-1; i>=0; i--)
+      cout << str[i];
+}
+**Q #1) How can you reverse a string?**
+ 
+```
+
+// Function to reverse a string
+void reverse(string str)
+{
+   for (int i=str.length()-1; i>=0; i--)
+      cout << str[i];
+}
 
 
 <hr>
