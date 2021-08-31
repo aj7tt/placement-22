@@ -5,10 +5,6 @@
 ## Ace the #placement'22 🎯 
 
  
- 
- | [DSA](https://github.com/Aj7t/100daysofDSA)  | [C++](https://github.com/Aj7t/100daysofDSA)   | [Javascript](https://github.com/Aj7t/A-Tour-of-JavaScript)  |  
- 
- 
 - [X] Common Coding Interview Questions  
 - [X] Common mySQL Interview Questions  
 
@@ -160,7 +156,7 @@ void ceaser(string s, int key)
 
 ```
 
-**Q #5) Program to Encrypt a String?**Find total ways to reach n’th stair with at-most `m` steps?**
+**Q #5) Find total ways to reach n’th stair with at-most `m` steps?**
 
 ```
 
