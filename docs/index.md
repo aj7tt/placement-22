@@ -3,10 +3,9 @@
  
 
 ## Ace the #placement'22 🎯
- 
-First Header  | Second Header
-------------- | -------------
- [DSA](https://github.com/Aj7t/100daysofDSA)  ||  [C++](https://github.com/Aj7t/100daysofDSA)  || [Oops]()  || [mySQL]()  ||  [Code]()  
+ [DSA](https://github.com/Aj7t/100daysofDSA)  | [C++](https://github.com/Aj7t/100daysofDSA)   | [Oops]()
+---------------- | ----------------  | ----------------------- | 
+
 - [X] Common Coding Interview Questions  
 - [X] Common mySQL Interview Questions  
 
