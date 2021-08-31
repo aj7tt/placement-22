@@ -6,7 +6,8 @@
 - [X] Common mySQL Interview Questions  
 
 
-<hr>
+<hr><hr>
+<link rel="shortcut icon" type="image/x-icon" href="https://miro.medium.com/max/1280/1*75jvBleoQfAZJc3sgTSPQA.jpeg">
   
 
 ## Common Coding Interview Questions 
