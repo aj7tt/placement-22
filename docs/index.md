@@ -9,7 +9,7 @@
 - [X] Common Coding Interview Questions  
 - [X] Common mySQL Interview Questions  
 
-First Header  | Second Header
+   |  
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
