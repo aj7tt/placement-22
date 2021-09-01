@@ -13,7 +13,10 @@
 ## Common Coding Interview Questions 💻💻
  
 
-**Q #1) How can you reverse a string?**
+<details>
+<summary>**Q #1) How can you reverse a string?**</summary>
+<br>
+<pre>
  
 ```
 
@@ -35,6 +38,10 @@ void reverseStr(string& str)
 }
 
 ```
+</pre>
+
+
+
 
 **Q #2) How to calculate the number of vowels and consonants in a string?**
 
