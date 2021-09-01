@@ -9,12 +9,10 @@
 - [X] Common **mySQL** Interview Questions  
 
 <hr>  
-  
-## Common Coding Interview Questions 💻💻
  
 
 <details>
-<summary>## Common Coding Interview Questions 💻💻</summary>
+<summary>▶️ Common Coding Interview Questions 💻💻</summary>
 <br>
 <pre>
  
