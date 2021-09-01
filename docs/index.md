@@ -9,12 +9,8 @@
 - [X] Common **mySQL** Interview Questions  
 
 <hr>  
+## Common Coding Interview Questions 💻💻 
  
-
-<details>
-<summary>▶️ Common Coding Interview Questions 💻💻</summary>
-<br>
-<pre>
  
 **Q #1) How can you reverse a string?** 
 ```
@@ -37,7 +33,7 @@ void reverseStr(string& str)
 }
 
 ```
-</pre>
+ 
 
 
 
