@@ -14,10 +14,11 @@
  
 
 <details>
-<summary>**Q #1) How can you reverse a string?**</summary>
+<summary>## Common Coding Interview Questions 💻💻</summary>
 <br>
 <pre>
  
+**Q #1) How can you reverse a string?** 
 ```
 
 // Function to reverse a string
