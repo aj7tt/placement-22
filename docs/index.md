@@ -178,6 +178,32 @@ int totalWays(int n, int m)
 
 ```
 
+**Q #6) Find the max & min elements from an array?**
+
+```
+
+int maxElement(int arr[], int n){
+    int max =0;
+    for(int i=1; i<n; i++){
+        if(arr[max]<arr[i]){
+            max=i;
+        }
+    }
+    return arr[max];
+}
+
+
+int minElement(int arr[], int n){
+    int min =0;
+    for(int i=1; i<n; i++){
+        if(arr[min]>arr[i]){
+            min=i;
+        }
+    }
+    return arr[min];
+}
+
+```
 
 
 
